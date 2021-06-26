@@ -1,19 +1,17 @@
 # Hi there 👋,
 # Desenvolvedor Full-Stack   :brazil:  💻📱
 
-<hr>
-
 ## Skills: 
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt='javascript' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt='react' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt='typescript' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt='nodejs' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt='postgres' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt='firebase' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt='mysql' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt='git' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt='github' height='40'>|
-⋅⋅* <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt='docker' height='40'>|
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt='javascript' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt='react' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt='typescript' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt='nodejs' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt='postgres' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt='firebase' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt='mysql' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt='git' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt='github' height='40'>| 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt='docker' height='40'>| 
 
 <hr>
 
