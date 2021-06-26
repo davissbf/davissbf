@@ -4,7 +4,7 @@
 <hr>
 
 ## Skills: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+[<img href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">]
 REACT JS / REACT NATIVE / IONIC / FLUTTER / JS / TS / PYTHON /  HTML / CSS / GIT / GITHUB / DOCKER / POSTGRES / MONGODB / MYSQL / FIREBASE
 
 <hr>
