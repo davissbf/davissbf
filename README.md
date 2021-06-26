@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ### Desenvolvedor Full-Stack   :brazil:  💻📱
 
-<img align="center" width="300" height="100" alt="Nodejs" src="https://buddy.works/guides/covers/test-nodejs-app/share-nodejs-logo.png" />
+<img align="center" width="600" height="150" alt="Nodejs" src="https://buddy.works/guides/covers/test-nodejs-app/share-nodejs-logo.png" />
 
 <hr>
 
