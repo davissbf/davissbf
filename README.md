@@ -1,14 +1,10 @@
 # Hi there 👋,
 # Desenvolvedor Full-Stack   :brazil:  💻📱
 
-<img align="center" alt="Nodejs" src="https://buddy.works/guides/covers/test-nodejs-app/share-nodejs-logo.png" />
-
 <hr>
 
 ## Skills: 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 REACT JS / REACT NATIVE / IONIC / FLUTTER / JS / TS / PYTHON /  HTML / CSS / GIT / GITHUB / DOCKER / POSTGRES / MONGODB / MYSQL / FIREBASE
 
 <hr>
