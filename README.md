@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ### Desenvolvedor Full-Stack   :brazil:  💻📱
 
-<img align="center" width="100" height="300" alt="Nodejs" src="https://www.cisoadvisor.com.br/wp-content/uploads/2018/11/nodejs-event-stream-module.jpg" />
+<img align="center" width="300" height="100" alt="Nodejs" src="https://buddy.works/guides/covers/test-nodejs-app/share-nodejs-logo.png" />
 
 <hr>
 
