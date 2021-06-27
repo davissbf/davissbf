@@ -1,6 +1,9 @@
 <h3> Davi Souza, Desenvolvedor Full-Stack 💻📱</h3>
 
-<h5>Habilidades:</h5><br>
+<hr>
+
+<h4>Habilidades:</h4><br>
+
 <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt='javascript' height='40'>
 <img src="https://www.svgrepo.com/show/303157/react-logo.svg" alt='react' height='40'>
 <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='typescript' height='40'>
@@ -15,6 +18,7 @@
 <hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davissbf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davi-souza-667497195/) 
 
-(https://www.linkedin.com/in/davi-souza-667497195/)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf_icons=true&theme=radical)
+
