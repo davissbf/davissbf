@@ -13,4 +13,4 @@ Habilidades:
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt='docker' height='40'>
 <hr>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davissbf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davi-souza-667497195/)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=dark)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] (https://www.linkedin.com/in/davi-souza-667497195/)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=dark)
