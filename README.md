@@ -10,10 +10,10 @@
 <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt='postgres' height='40'>
 <img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt='firebase' height='40'>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt='mysql' height='40'>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt='mongodb' height='40'>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt='git' height='40'>
 <img src="https://www.svgrepo.com/show/305241/github.svg" alt='github' height='40'>
 <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt='docker' height='40'>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt='mongodb' height='40'>
 
 <hr>
 
