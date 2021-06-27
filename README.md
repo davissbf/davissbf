@@ -2,7 +2,7 @@
 
 <hr>
 
-<h4>+Habilidades:</h4>
++ <h4>Habilidades:</h4>
 
 <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt='javascript' height='40'><img src="https://www.svgrepo.com/show/303157/react-logo.svg" alt='react' height='40'>
 <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='typescript' height='40'>
