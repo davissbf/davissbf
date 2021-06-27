@@ -13,10 +13,11 @@
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt='git' height='40'>
 <img src="https://www.svgrepo.com/show/305241/github.svg" alt='github' height='40'>
 <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt='docker' height='40'>
+<img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt='mongodb' height='40'>
 
 <hr>
 
-[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIlta8u1KADIkDwQYChHOzOi8AEZpk_D7pg&usqp=CAU' alt='github' height='40' target="_blank">](https://github.com/davissbf)
+[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg' alt='github' height='40' target="_blank">](https://github.com/davissbf)
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/davi-souza-667497195/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=radical)
