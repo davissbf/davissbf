@@ -1,4 +1,4 @@
-<h3> Davi Souza, Desenvolvedor Full-Stack 💻📱</h3>
+<h3> Davi Souza, Desenvolvedor Back-end 💻</h3>
 
 <hr>
 
