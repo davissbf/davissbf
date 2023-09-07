@@ -4,7 +4,8 @@
 
 + ### Habilidades:</h4>
 
-<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt='javascript' height='40'><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='typescript' height='40'>
+<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt='javascript' height='40'>
+<img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='typescript' height='40'>
 <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt='nodejs' height='40'>
 <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt='postgres' height='40'>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt='mysql' height='40'>
