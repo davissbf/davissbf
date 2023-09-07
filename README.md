@@ -16,6 +16,6 @@
 <hr>
 
 [<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg' alt='github' height='40' wisth="85" target="_blank">](https://github.com/davissbf)
-[<img src='[https://cdn.worldvectorlogo.com/logos/linkedin.svg](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)' alt='linkedin' height='40' width="85" target="_blank">](https://www.linkedin.com/in/davi-souza-667497195/) 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' width="85" target="_blank">](https://www.linkedin.com/in/davi-souza-667497195/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=radical)
