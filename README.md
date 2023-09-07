@@ -16,6 +16,6 @@
 <hr>
 
 [<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg' alt='github' height='40' wisth="85" target="_blank">](https://github.com/davissbf)
-[<img src='https://img.shields.io/badge/-DaviSouza-05122A?=style=flat&logo=linkedin' alt='linkedin' height='40' width="85" target="_blank">](https://www.linkedin.com/in/davi-souza-667497195/) 
+[<img src='https://img.shields.io/badge/-05122A?=style=flat&logo=linkedin' alt='linkedin' height='40' width="100" target="_blank">](https://www.linkedin.com/in/davi-souza-667497195/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davissbf&show_icons=true&theme=radical)
