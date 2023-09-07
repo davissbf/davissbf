@@ -12,6 +12,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt='git' height='40'>
 <img src="https://www.svgrepo.com/show/305241/github.svg" alt='github' height='40'>
 <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt='docker' height='40'>
+<img src="https://www.svgrepo.com/show/354248/rabbitmq-logo.svg" alt='rabbitmq' height='40'>
 
 <hr>
 
