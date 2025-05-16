@@ -2,6 +2,8 @@
   
 <h3> Davi Souza, Software Engineer 💻</h3>
 
+[<img src='https://www.svgrepo.com/show/448234/linkedin.svg' alt='linkedin' height='40' width="60" target="_blank">](https://www.linkedin.com/in/daviSouzaDeveloper/)
+
 <hr>
 
 ### Habilidades:</h4>
@@ -13,8 +15,6 @@
 </div>
 
 <hr>
-
-[<img src='https://www.svgrepo.com/show/448234/linkedin.svg' alt='linkedin' height='40' width="60" target="_blank">](https://www.linkedin.com/in/daviSouzaDeveloper/)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davissbf&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davissbf&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
