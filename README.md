@@ -1,6 +1,6 @@
 <div align="center">
   
-<h3> Davi Souza, Desenvolvedor Back-end 💻</h3>
+<h3> Davi Souza, Software Engineer 💻</h3>
 
 <hr>
 
@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,css,docker,express,git,github,html,javascript,java,jenkins,jest,kubernetes,laravel,linkedin,linux,maven,mongodb,nestjs,nodejs,npm,php,postgres,postman,rabbitmq,react,spring,typescript,wordpress" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,css,docker,express,git,github,html,javascript,java,jenkins,jest,kubernetes,laravel,linkedin,linux,maven,mongodb,nestjs,nodejs,npm,php,postgres,postman,rabbitmq,react,spring,typescript,wordpress" />
   </a>
 </div>
 
