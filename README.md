@@ -14,7 +14,6 @@
 
 <hr>
 
-[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg' alt='github' height='40' wisth="85" target="_blank">](https://github.com/davissbf)
 [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' alt='linkedin' height='40' width="60" target="_blank">](https://www.linkedin.com/in/daviSouzaDeveloper/)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davissbf&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davissbf&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
